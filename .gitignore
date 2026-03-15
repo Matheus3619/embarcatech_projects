@@ -1,2 +1,7 @@
-build
+./blink
+./aula_01
 !.vscode/*
+build/
+*.elf
+*.uf2
+*.o
